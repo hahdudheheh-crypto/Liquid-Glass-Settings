@@ -4,7 +4,7 @@
 
 ### Transform Samsung One UI Settings into Ultra-Premium 3D Liquid Glass
 
-[![One UI](https://img.shields.io/badge/One%20UI-9.0%20%7C%208.x%20%7C%207.x-0c66e4.svg?style=for-the-badge&logo=samsung)](https://www.samsung.com)
+[![One UI](https://img.shields.io/badge/One%20UI-9.0%20%7C%208.5-0c66e4.svg?style=for-the-badge&logo=samsung)](https://www.samsung.com)
 [![Android](https://img.shields.io/badge/Android-15%20--%2017-34A853.svg?style=for-the-badge&logo=android)](https://www.android.com)
 [![LSPosed](https://img.shields.io/badge/LSPosed-API%20102%20Modern-blueviolet.svg?style=for-the-badge)](https://github.com/mywalkb/LSPosed_mod)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
