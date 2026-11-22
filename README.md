@@ -21,8 +21,7 @@
 Unlike ordinary "flat transparent" overlays, Liquid Glass delivers genuine optical depth, curved specular surface glares, luminous dual-layer caustic borders, and seamless card fusion across both the main Settings homepage and all SubSettings sub-pages.
 
 ---
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/4101daba-7ab6-4f8b-a45a-b84645c80e63" />
-
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/2bb03409-34da-49fa-9500-5466a126dec9" />
 
 ## ✨ Features
 
@@ -37,7 +36,7 @@ Unlike ordinary "flat transparent" overlays, Liquid Glass delivers genuine optic
   - Fuses multi-item categories seamlessly into singular rounded liquid cards with zero gaps or detached lines.
   - SubSettings category grouping dynamically mirrors One UI structure while keeping standalone settings as elegant rounded capsules.
 
-- 🖼️ **True Full-Screen Edge-to-Edge:**
+- 🖼 **True Full-Screen Edge-to-Edge:**
   - Completely suppresses Samsung OEM horizontal padding (`mDrawHorizontalPadding` 30px black side gutters).
   - Eliminates black headers, `BackgroundFallback` dark bars, and framework corner mask overlays.
 
@@ -71,7 +70,7 @@ Unlike ordinary "flat transparent" overlays, Liquid Glass delivers genuine optic
    - Install and activate **LSPosed (Zygisk)**.
 
 2. **Install Module:**
-   - Download the latest `LiquidGlassSettings.apk` from the [Releases]([https://github.com/haithemxt/Liquid-Glass-Settings/releases/tag/v1.0.0) page.
+   - Download the latest `LiquidGlassSettings.apk` from the [Releases](https://github.com/haithemxt/Liquid-Glass-Settings/releases) page.
    - Install the APK on your Samsung device.
 
 3. **Activate in LSPosed:**
