@@ -71,7 +71,7 @@ Unlike ordinary "flat transparent" overlays, Liquid Glass delivers genuine optic
    - Install and activate **LSPosed (Zygisk)**.
 
 2. **Install Module:**
-   - Download the latest `LiquidGlassSettings.apk` from the [Releases]([https://github.com/YOUR_USERNAME/LiquidGlassSettings/releases](https://github.com/haithemxt/Liquid-Glass-Settings/releases/tag/v1.0.0)) page.
+   - Download the latest `LiquidGlassSettings.apk` from the [Releases]([https://github.com/haithemxt/Liquid-Glass-Settings/releases/tag/v1.0.0]) page.
    - Install the APK on your Samsung device.
 
 3. **Activate in LSPosed:**
