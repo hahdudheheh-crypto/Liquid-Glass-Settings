@@ -21,6 +21,8 @@
 Unlike ordinary "flat transparent" overlays, Liquid Glass delivers genuine optical depth, curved specular surface glares, luminous dual-layer caustic borders, and seamless card fusion across both the main Settings homepage and all SubSettings sub-pages.
 
 ---
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/4101daba-7ab6-4f8b-a45a-b84645c80e63" />
+
 
 ## ✨ Features
 
